@@ -1,7 +1,7 @@
 /*
   Creado: Luis del Valle (ldelvalleh@programarfacil.com)
   https://programarfacil.com
-*/Andresillo
+*/ya sirve
 
 // Incluímos la librería para poder controlar el servo
 #include <Servo.h>
